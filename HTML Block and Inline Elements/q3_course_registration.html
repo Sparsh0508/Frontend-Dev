@@ -1,0 +1,60 @@
+<!-- Course Registration: q3_course_registration.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Course Registration</title>
+</head>
+<body>
+  <header>
+    <h1>Course Registration Form</h1>
+  </header>
+
+  <main>
+    <form>
+      <fieldset>
+        <legend>Student Information</legend>
+        <label for="name">Name:</label><br>
+        <input id="name" name="name" type="text" placeholder="Full name"><br><br>
+
+        <label for="email">Email:</label><br>
+        <input id="email" name="email" type="email" placeholder="you@example.com"><br><br>
+
+        <label for="course">Select Course:</label><br>
+        <select id="course" name="course">
+          <option selected>Introduction to Web</option>
+          <option>Advanced Java</option>
+          <option>Data Structures</option>
+        </select>
+      </fieldset>
+    </form>
+
+    <h2>Available Schedules</h2>
+    <table border="1" cellpadding="4">
+      <thead>
+        <tr>
+          <th>Day</th>
+          <th>Time</th>
+          <th>Instructor</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Monday</td>
+          <td>10:00 - 12:00</td>
+          <td>Dr. A</td>
+        </tr>
+        <tr>
+          <td>Wednesday</td>
+          <td>14:00 - 16:00</td>
+          <td>Prof. B</td>
+        </tr>
+      </tbody>
+    </table>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Training Center</p>
+  </footer>
+</body>
+</html>

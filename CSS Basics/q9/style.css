@@ -1,0 +1,14 @@
+/* Newspaper columns (q9)
+   - uses column-count and column-span, with floated image and justification
+*/
+body{font-family:Georgia,serif;background:#f6efe6;padding:2rem}
+.mag{max-width:1000px;margin:0 auto;background:#fff;padding:2rem;border-radius:6px}
+.span{column-span:all; text-align:center; font-size:2rem; margin-bottom:1rem}
+.columns{column-count:3; column-gap:2rem; text-align:justify}
+.float-left{float:left;margin:0 1rem 1rem 0; width:180px;border-radius:6px}
+
+/* ensure readability on small screens */
+@media (max-width:800px){
+  .columns{column-count:1}
+  .float-left{width:100%;float:none;margin-bottom:1rem}
+}

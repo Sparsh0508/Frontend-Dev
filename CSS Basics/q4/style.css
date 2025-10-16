@@ -1,0 +1,35 @@
+/* Long article (q4)
+   - styles ::first-letter and ::first-line, mark, blockquote emphasis
+*/
+body{font-family: 'Times New Roman', Times, serif;background:#fff6ee;padding:2rem;}
+.article{max-width:800px;margin:0 auto;background:#fff;padding:2rem;border-radius:6px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+.article header h1{margin-bottom:0.25rem}
+.meta{color:#666;margin-bottom:1.25rem;font-style:italic}
+
+/* spacing between paragraphs */
+.content p{margin:1rem 0; text-align:justify;}
+
+/* first letter larger */
+.content p::first-letter{
+  font-size:2.4rem;
+  float:left;
+  line-height:1;
+  padding-right:8px;
+  font-weight:700;
+}
+
+/* first line bold */
+.content p::first-line{
+  font-weight:700;
+}
+
+/* mark styling */
+mark{background:#fff176; padding:.1rem .2rem; border-radius:2px;}
+
+/* blockquote emphasis */
+blockquote{
+  border-left:6px solid #ffb74d;
+  background:#fff3e0;
+  margin:1.5rem 0;
+  padding:1rem 1rem;
+}

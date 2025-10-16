@@ -1,0 +1,38 @@
+/* Pricing table (q5)
+   - three equal columns using flexbox
+   - hover enlarge + transitions
+*/
+body{font-family:Arial,Helvetica,sans-serif;background:#eef2f6;padding:2rem}
+.pricing h1{text-align:center;margin-bottom:1rem}
+.plans{display:flex;gap:1rem;align-items:stretch}
+
+/* plan boxes equal height */
+.plan{
+  flex:1;
+  padding:1.5rem;
+  border:2px solid #e1e7ee;
+  border-radius:10px;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  transition: transform .25s ease, background .25s ease;
+  min-height:240px;
+}
+
+/* hover effect */
+.plan:hover{ transform: scale(1.03); background:#f8fbff; }
+
+/* highlight popular plan */
+.plan.popular{
+  border-color:#2b8aef;
+  box-shadow: 0 10px 30px rgba(43,138,239,0.12);
+}
+
+/* price and button */
+.price{font-size:1.5rem;font-weight:700;margin-top:1rem}
+.btn{display:inline-block;margin-top:1rem;padding:.6rem 1rem;border-radius:6px;text-decoration:none;background:#2b8aef;color:white}
+
+/* responsive single column on small screens */
+@media (max-width:700px){
+  .plans{flex-direction:column}
+}

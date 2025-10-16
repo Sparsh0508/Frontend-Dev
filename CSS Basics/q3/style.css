@@ -1,0 +1,38 @@
+/* Team members (q3)
+   - uses flexbox to create 3-column layout
+   - responsive to single column below 600px
+*/
+body{font-family:Arial,Helvetica,sans-serif;background:#f2f6fb;padding:2rem}
+.team-wrap h1{text-align:center;margin-bottom:1rem}
+.team{
+  display:flex;
+  gap:1rem;
+  justify-content:center;
+  align-items:stretch;
+}
+
+/* card box model */
+.card{
+  flex:1;
+  padding:1.25rem; /* padding used */
+  margin:0;
+  border:2px solid #dbe8ff;
+  border-radius:12px;
+  box-shadow: 0 6px 18px rgba(15,23,42,0.08);
+  background:white;
+}
+
+/* highlight team lead */
+.card.lead{
+  background:#fff8e6;
+  border-style: dashed;
+  border-color:#ffd166;
+}
+
+/* uniform heights using flex and alignment */
+.team .card{display:flex;flex-direction:column;justify-content:flex-start}
+
+/* responsive: single column under 600px */
+@media (max-width:600px){
+  .team{flex-direction:column}
+}

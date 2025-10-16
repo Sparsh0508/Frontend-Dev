@@ -1,0 +1,49 @@
+/* Multi-section informational page (q2)
+   - includes header, nav, main, footer
+   - uses linear and radial gradients and two fixed backgrounds for parallax-like effect
+*/
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family: Georgia, serif; line-height:1.6; background:#f8f4f0;color:#222;}
+.top{position:sticky; top:0; background:#fff;padding:1rem; border-bottom:1px solid #ddd; z-index:10;}
+.top nav a{margin-left:1rem;text-decoration:none;color:#b33}
+
+/* each .full takes full viewport height with background */
+.full{
+  min-height:60vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:4rem 2rem;
+  color:white;
+}
+
+/* fixed background images (parallax-like) */
+.fixed-bg{
+  background-image: url('https://images.unsplash.com/photo-1526772662000-3f88f10405ff?auto=format&fit=crop&w=1400&q=60');
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment: fixed; /* required */
+}
+
+/* second fixed background (different image) */
+.fixed-bg-2{
+  background-image: url('https://images.unsplash.com/photo-1505231319470-9b8ad1b3e7d6?auto=format&fit=crop&w=1400&q=60');
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment: fixed; /* required */
+}
+
+/* linear gradient section */
+.gradient{
+  background: linear-gradient(135deg, rgba(211,84,0,0.9), rgba(243,156,18,0.9));
+}
+
+/* radial gradient example layered with color */
+.radial{
+  background: radial-gradient(circle at 20% 20%, rgba(255,255,255,0.12), rgba(0,0,0,0.3)), #c0392b;
+}
+
+/* spacing and headings */
+.inner{background:rgba(0,0,0,0.35); padding:2rem; border-radius:8px;}
+.inner h2{font-size:2rem;margin-bottom:0.5rem}
+.foot{text-align:center;padding:1rem;background:#222;color:#fff;margin-top:2rem;}

@@ -1,110 +1,108 @@
-# Frontend Development Repository
+# 🌐 Frontend Development Repository  
 
-This repository contains my daily learning progress, assignments, and projects for the **Frontend Development** module, guided by **Mr. Deepak Prasad** and **Mr. Sahil Kumar**.  
-Each topic is maintained in a **separate branch**, as instructed — ensuring organized development and version tracking.
+> 📘 *Daily learning progress, assignments, and projects for the **Frontend Development** module guided by **Mr. Deepak Prasad** and **Mr. Sahil Kumar***  
 
----
-
-## 📚 Course Overview
-
-The course introduces core frontend concepts, starting from **HTML**, progressing through **CSS**, **Flexbox**, **Grid**, and **Animations**, and finally covering **Responsive Design**.
-
-### 🧠 Learning Path
-1. **Introduction to Web Development**
-2. **HTML Basics**
-3. **HTML Block & Inline Elements**
-4. **HTML Iframes**
-5. **CSS Basics**
-6. **CSS Flexbox and Grid**
-7. **CSS Model**
-8. **CSS Pseudo-Classes and Animations**
-9. **Responsive CSS**
----
-
-## 🗂️ Repository Structure
-
-| Branch Name | Topic Covered |
-|--------------|----------------|
-| `main` | README and overall progress |
-| `intro-to-web-dev` | 3-Tier Architecture, localhost, ports, and basic HTML setup |
-| `html` | HTML basics – headings, paragraphs, tables, and images |
-| `html-block-&inline-elements` | Block vs Inline, attributes, layout, and positioning |
-| `html-iframes` | Embedding external pages and media using `<iframe>` |
-| `css` | Introduction to CSS – syntax, selectors, colors, and backgrounds |
-| `flex` | CSS Flexbox layouts |
-| `css-model` | CSS Box Model, borders, padding, height/width, gradients |
-| `css-classes` | Pseudo-classes, transitions, animations, and transforms |
-| `responsive-css` | Filters, responsive web design, and media queries |
+Each topic is organized in its own **Git branch**, ensuring clear version control and structured progress tracking.  
 
 ---
 
-## 🧩 Assignments
+## 📚 Course Overview  
 
-| Date | Assignment | Description |
-|------|-------------|-------------|
-| Oct 9 | **Submission of Intro to Web Dev** | Created a timetable using the `<table>` tag |
-| Oct 9 | **Submission of HTML Basics** | Designed a basic webpage using HTML |
-| Oct 10 | **Submission of HTML Block and Inline Elements** | Practiced layout using inline, block, and inline-block elements |
-| Oct 10 | **Submission of HTML iframes** | Embedded YouTube videos and Google Maps using iframes |
-| Oct 16 | **Submission of CSS Basics** | Applied basic CSS styling and layout |
-| Oct 16 | **Submission of CSS Flexbox and Grid** | Built a responsive layout using Flexbox and Grid |
-| Oct 31 | **Submission of CSS Model** | Created a calculator layout using Grid and demonstrated gradients |
-| Oct 31 | **Submission of Pseudo Classes** | Implemented pseudo-classes, animations, transitions, and tooltips |
+This course builds a strong foundation in frontend technologies — starting with **HTML**, advancing through **CSS**, **Flexbox**, **Grid**, **Animations**, and finally mastering **Responsive Design**.
 
----
-
-## 🧱 Daily Progress
-
-### 🗓️ Oct 9 – Introduction to Web Development
-- Learned 3-Tier Architecture: Frontend, Backend, and Database  
-- Practiced HTML basics: headings, paragraphs, tables, and images  
-- Task: Create a timetable using the `<table>` tag  
-
-### 🗓️ Oct 10 – HTML Block & Inline Elements
-- Explored inline and block elements, lists, dropdowns, and forms  
-- Task: Create webpage demonstrating all block and inline elements  
-
-### 🗓️ Oct 13 – Introduction to CSS
-- Learned CSS syntax, types (inline, internal, external), and selectors  
-- Task: Design a webpage with margins, padding, and positioning  
-
-### 🗓️ Oct 16 – CSS Flexbox & Grid
-- Practiced Flexbox and Grid layouts  
-- Explored transformations and animations  
-- Task: Design a calculator layout using CSS Grid  
-
-### 🗓️ Oct 30 – CSS Model
-- Revised Box Model, borders, padding, gradients, and shadows  
-- Task: Build a calculator layout using CSS Grid  
-
-### 🗓️ Oct 31 – CSS Pseudo-Classes & Animations
-- Revised pseudo-classes, tooltips, transitions, and transforms  
-- Task: Animate an element diagonally using transition and transform  
+### 🧠 Learning Path  
+1. 🌍 Introduction to Web Development  
+2. 🧱 HTML Basics  
+3. 🧩 HTML Block & Inline Elements  
+4. 🪟 HTML Iframes  
+5. 🎨 CSS Basics  
+6. 🧭 CSS Flexbox and Grid  
+7. 📦 CSS Model  
+8. ✨ CSS Pseudo-Classes & Animations  
+9. 📱 Responsive CSS  
+10. 💎 BootStrap CSS  
 
 ---
 
-## 🧠 Upcoming Topics
-- **Responsive CSS**
-  - Filters
-  - Responsive Web Design Principles
-  - CSS Media Queries
+## 🗂️ Repository Structure  
+
+| 🏷️ Branch Name | 📘 Topic Covered |
+|----------------|-----------------|
+| `main` | Overview & README |
+| `intro-to-web-dev` | 3-Tier Architecture, localhost, ports, and setup |
+| `html` | HTML basics: headings, tables, images |
+| `html-block-&inline-elements` | Block vs Inline, layout, and positioning |
+| `html-iframes` | Embedding media using `<iframe>` |
+| `css` | CSS syntax, selectors, and backgrounds |
+| `flex` | Flexbox layouts |
+| `css-model` | Box Model, gradients, and borders |
+| `css-classes` | Pseudo-classes, transitions, animations |
+| `responsive-css` | Media Queries and responsiveness |
 
 ---
 
-## 🧰 Tools Used
-- **VS Code** (with Live Server)
-- **Git & GitHub**
-- **HTML5 / CSS3**
-- **Flexbox & Grid Layouts**
+## 🧩 Assignments  
+
+| 📅 Date | 🧾 Assignment | 📝 Description |
+|----------|----------------|----------------|
+| Oct 9 | Intro to Web Dev | Created a timetable using `<table>` |
+| Oct 9 | HTML Basics | Built a basic webpage |
+| Oct 10 | Block & Inline Elements | Demonstrated layout concepts |
+| Oct 10 | HTML Iframes | Embedded YouTube & Maps |
+| Oct 16 | CSS Basics | Applied basic styling |
+| Oct 16 | Flexbox & Grid | Created a responsive layout |
+| Oct 31 | CSS Model | Calculator layout with Grid & gradients |
+| Oct 31 | Pseudo Classes | Implemented animations & tooltips |
+| Oct 31 | Responsive CSS | Used Media Queries for mobile-first design |
 
 ---
 
-## 💬 Acknowledgement
-Grateful to **Mr. Deepak Prasad** and **Mr. Sahil Kumar** for their continuous guidance and practical assignments that enhance our hands-on learning experience.
+## 🧱 Daily Progress  
+
+### 🗓️ Oct 9 – Introduction to Web Development  
+- Learned 3-Tier Architecture  
+- Practiced HTML basics  
+- 🧠 Task: Create a timetable using `<table>`  
+
+### 🗓️ Oct 10 – HTML Block & Inline Elements  
+- Explored inline & block elements  
+- 🧠 Task: Create webpage demonstrating both  
+
+### 🗓️ Oct 13 – Introduction to CSS  
+- Learned CSS types and selectors  
+- 🧠 Task: Webpage with margins, padding & position  
+
+### 🗓️ Oct 16 – CSS Flexbox & Grid  
+- Practiced responsive layouts  
+- 🧠 Task: Calculator using Grid  
+
+### 🗓️ Oct 30 – CSS Model  
+- Revised Box Model and gradients  
+- 🧠 Task: Calculator layout using Grid  
+
+### 🗓️ Oct 31 – CSS Pseudo-Classes & Animations  
+- Implemented transitions & transforms  
+- 🧠 Task: Animate element diagonally  
+
+### 🗓️ Nov 3 – Responsive CSS  
+- Mastered Media Queries  
+- 🧠 Task: Mobile-first responsive site  
 
 ---
 
-**Author:** Sparsh Agarwal
-**Course:** Frontend Development (HTML, CSS)  
-**Mentors:** Deepak Prasad & Sahil Kumar  
-**Institution:** GLA University,Mathura
+## 🧰 Tools Used  
+- 🖥️ **VS Code** with Live Server  
+- 🧾 **Git & GitHub**  
+- 🎨 **HTML5 / CSS3**  
+- 📐 **Flexbox & Grid Layouts**
+
+---
+
+## 💬 Acknowledgement  
+Grateful to **Mr. Deepak Prasad** and **Mr. Sahil Kumar** for their valuable mentorship and practical assignments that enhanced our learning experience.  
+
+---
+
+**👨‍💻 Author:** Sparsh Agarwal  
+**📘 Course:** Frontend Development (HTML, CSS)  
+**🏫 Institution:** GLA University, Mathura  

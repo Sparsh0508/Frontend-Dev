@@ -111,5 +111,5 @@ Grateful to **Mr. Deepak Prasad** and **Mr. Sahil Kumar** for their valuable men
 ---
 
 **👨‍💻 Author:** Sparsh Agarwal  
-**📘 Course:** Frontend Development (HTML, CSS)  
+**📘 Course:** Frontend Development (HTML, CSS, BootStrap, JavaScript)  
 **🏫 Institution:** GLA University, Mathura  

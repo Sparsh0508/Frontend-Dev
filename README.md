@@ -38,6 +38,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 | `css-model` | Box Model, gradients, and borders |
 | `css-classes` | Pseudo-classes, transitions, animations |
 | `responsive-css` | Media Queries and responsiveness |
+| `BootStrap` | HTML CSS Library |
 
 ---
 
@@ -54,6 +55,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 | Oct 31 | CSS Model | Calculator layout with Grid & gradients |
 | Oct 31 | Pseudo Classes | Implemented animations & tooltips |
 | Oct 31 | Responsive CSS | Used Media Queries for mobile-first design |
+| Nov 10 | BootStrap | Made Many Different Sites |
 
 ---
 
@@ -86,7 +88,11 @@ This course builds a strong foundation in frontend technologies — starting wit
 
 ### 🗓️ Nov 3 – Responsive CSS  
 - Mastered Media Queries  
-- 🧠 Task: Mobile-first responsive site  
+- 🧠 Task: Mobile-first responsive site
+
+### 🗓️ Nov 7 – BootStrap
+- Mastered HTML CSS Library 
+- 🧠 Task: Made Bootstrap header and personal portfolio
 
 ---
 
@@ -95,6 +101,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 - 🧾 **Git & GitHub**  
 - 🎨 **HTML5 / CSS3**  
 - 📐 **Flexbox & Grid Layouts**
+- 📐 **BootStrap**
 
 ---
 

@@ -8,7 +8,7 @@ Each topic is organized in its own **Git branch**, ensuring clear version contro
 
 ## 📚 Course Overview  
 
-This course builds a strong foundation in frontend technologies — starting with **HTML**, advancing through **CSS**, **Flexbox**, **Grid**, **Animations**, and finally mastering **Responsive Design**.
+This course builds a strong foundation in frontend technologies — starting with **HTML**, advancing through **CSS**, **Flexbox**, **Grid**, **Animations**, **Responsive Design** finally mastering **JavaScript**.
 
 ### 🧠 Learning Path  
 1. 🌍 Introduction to Web Development  
@@ -20,7 +20,8 @@ This course builds a strong foundation in frontend technologies — starting wit
 7. 📦 CSS Model  
 8. ✨ CSS Pseudo-Classes & Animations  
 9. 📱 Responsive CSS  
-10. 💎 BootStrap CSS  
+10.💎 BootStrap CSS
+11.🟨 Intro to JavaScript
 
 ---
 
@@ -39,6 +40,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 | `css-classes` | Pseudo-classes, transitions, animations |
 | `responsive-css` | Media Queries and responsiveness |
 | `BootStrap` | HTML CSS Library |
+| `Intro-to-js` | Learn Variables,datatypes,operations,control statements |
 
 ---
 
@@ -56,6 +58,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 | Oct 31 | Pseudo Classes | Implemented animations & tooltips |
 | Oct 31 | Responsive CSS | Used Media Queries for mobile-first design |
 | Nov 10 | BootStrap | Made Many Different Sites |
+| Nov 12 | Intro to JS | Implement Variables,operations and control statements |
 
 ---
 
@@ -93,6 +96,14 @@ This course builds a strong foundation in frontend technologies — starting wit
 ### 🗓️ Nov 7 – BootStrap
 - Mastered HTML CSS Library 
 - 🧠 Task: Made Bootstrap header and personal portfolio
+
+### 🗓️ Nov 10 – Intro To JS
+- Mastered Variable,Operations and Control Statements 
+- 🧠 Task: Implement all above things
+
+### 🗓️ Nov 12 – Scopes And Dom Manipulation
+- Mastered  Scopes And Dom Manipulation
+- 🧠 Task: Made one project(Color Changing Sites)
 
 ---
 

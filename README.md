@@ -20,8 +20,8 @@ This course builds a strong foundation in frontend technologies — starting wit
 7. 📦 CSS Model  
 8. ✨ CSS Pseudo-Classes & Animations  
 9. 📱 Responsive CSS  
-10.💎 BootStrap CSS
-11.🟨 Intro to JavaScript
+10. 💎 BootStrap CSS
+11. 🟨 Intro to JavaScript
 
 ---
 

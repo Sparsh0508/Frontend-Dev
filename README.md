@@ -22,6 +22,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 9. 📱 Responsive CSS  
 10. 💎 BootStrap CSS
 11. 🟨 Intro to JavaScript
+12. 🟨 JS Opearators
 
 ---
 
@@ -40,7 +41,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 | `css-classes` | Pseudo-classes, transitions, animations |
 | `responsive-css` | Media Queries and responsiveness |
 | `BootStrap` | HTML CSS Library |
-| `Intro-to-js` | Learn Variables,datatypes,operations,control statements |
+| `JavaScript` | Learn Variables,datatypes,operations,control statements |
 
 ---
 
@@ -59,6 +60,7 @@ This course builds a strong foundation in frontend technologies — starting wit
 | Oct 31 | Responsive CSS | Used Media Queries for mobile-first design |
 | Nov 10 | BootStrap | Made Many Different Sites |
 | Nov 12 | Intro to JS | Implement Variables,operations and control statements |
+| Nov 15 | JS Operators | Implement scopes |
 
 ---
 
